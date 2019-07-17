@@ -20,7 +20,7 @@ string getInstallationPath(){
 		// 打开注册表成功
 		// 开始查询
 		lRet = RegQueryValueEx(hKey, // 打开注册表时返回的句柄
-			TEXT("Install Directory"), //要查询的名称,qq安装目录记录在这个保存
+			TEXT("Install Directory"), //要查询的名称,火狐安装目录记录在这里
 			NULL, // 一定为NULL或者0
 			NULL,
 			(LPBYTE)szProductType, // 我们要的东西放在这里
