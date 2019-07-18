@@ -1,6 +1,5 @@
 #include"Firedox_decrypt.h"
 #include<regex>
-#include<typeinfo.h>
 
 int main() {
 	string installationPath = getInstallationPath();	// 获取Firefox的安装路径（通过注册表）
