@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 unsigned char* decrypt(string encryptedString) {
 	// Base64½âÂë
 	size_t szDecoded = encryptedString.size() / 4 * 3 - charCount(encryptedString.c_str(), encryptedString.size(), '=');

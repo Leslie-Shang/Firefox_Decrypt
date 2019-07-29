@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 // 动态加载库文件 
 HMODULE loadLibrary(string installationPath) {
 	const char nssLibraryName[] = "nss3.dll";	// 加载动态链接库文件nss.dll

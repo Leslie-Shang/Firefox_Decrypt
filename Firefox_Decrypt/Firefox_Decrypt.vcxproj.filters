@@ -44,7 +44,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Firedox_decrypt.h">
+    <ClInclude Include="Firefox_decrypt.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

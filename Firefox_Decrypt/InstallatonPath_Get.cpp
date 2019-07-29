@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 #define MY_BUFSIZE 128 // Arbitrary initial value.
 // Dynamic allocation will be used.
 constexpr auto Get_failed = "get_InstallationPath Failed";

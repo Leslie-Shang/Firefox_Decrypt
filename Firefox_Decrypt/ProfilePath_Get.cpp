@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 #include <ShlObj_core.h>
 constexpr auto Get_failed = "get_ProfilePath Failed";
 string getProfilePath() {

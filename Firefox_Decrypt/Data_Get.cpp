@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 // 获取logins.json中保存的登录信息
 char* getBuffer(string profilePath) {
 	profilePath = profilePath + "\\logins.json";

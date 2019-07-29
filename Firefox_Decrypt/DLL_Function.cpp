@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 // Global Functions
 fpNSS_Init NSS_Init;
 fpPL_Base64Decode PL_Base64Decode;

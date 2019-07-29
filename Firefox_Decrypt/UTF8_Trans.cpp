@@ -1,4 +1,4 @@
-#include"Firedox_decrypt.h"
+#include"Firefox_decrypt.h"
 #pragma warning (disable:26451)
 char* U2G(const char* utf8)//×Ö·û×ª»»º¯Êý
 {

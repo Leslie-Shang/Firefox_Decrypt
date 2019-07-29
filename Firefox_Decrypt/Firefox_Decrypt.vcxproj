@@ -134,7 +134,7 @@
     <ClCompile Include="UTF8_Trans.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Firedox_decrypt.h" />
+    <ClInclude Include="Firefox_decrypt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
