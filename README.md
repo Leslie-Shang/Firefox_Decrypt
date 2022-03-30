@@ -7,4 +7,4 @@ Extract and decrypt Firefox login information(username and password,etc) based o
 # 注意：您将如何使用此代码完全是您的责任。
 
 # Firefox加密原理及代码说明在本人博客
-[Firefox browser login information extraction and decryption](https://www.shangzg.top/c++/technology/Firefox-browser-login-information-extraction-and-decryption.html)
+[Firefox browser login information extraction and decryption](https://shangzg.top/2019-07-17-firefox-browser-login-information-extraction-and-decryption)
